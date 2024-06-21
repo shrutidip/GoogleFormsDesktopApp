@@ -1,0 +1,7 @@
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\Window_Desktop_App.Form1.resources
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\GoogleFormsDesktopApp.vbproj.GenerateResource.cache
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\GoogleFormsDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\GoogleFormsDesktopApp.AssemblyInfoInputs.cache
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\GoogleFormsDesktopApp.AssemblyInfo.vb
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\GoogleFormsDesktopApp.vbproj.CoreCompileInputs.cache
+C:\Users\rakes\source\repos\Window Desktop App\obj\Debug\net8.0-windows\Window_Desktop_App.MainForm.resources
