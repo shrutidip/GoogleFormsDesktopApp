@@ -1,8 +1,6 @@
-﻿Public Class MainForm
+Imports System.Windows.Forms
 
-    Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        ' Initialize form
-    End Sub
+Public Class MainForm
 
     Private Sub btnViewSubmissions_Click(sender As Object, e As EventArgs) Handles btnViewSubmissions.Click
         Dim viewSubmissionsForm As New ViewSubmissionsForm()
@@ -14,4 +12,7 @@
         createSubmissionForm.ShowDialog()
     End Sub
 
+    Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Additional initialization if needed
+    End Sub
 End Class
